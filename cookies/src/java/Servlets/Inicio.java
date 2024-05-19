@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author Alyta
+ * @author carlos
  */
 public class Inicio extends HttpServlet {
 
